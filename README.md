@@ -50,7 +50,7 @@ Este bot es útil para:
 ```bash
 python bot.py
 
-🚀 Próximas mejoras (roadmap)
+Proximas mejoras
 
 Agregar notificación por Telegram
 
