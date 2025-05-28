@@ -49,6 +49,7 @@ Este bot es útil para:
 
 ```bash
 python bot.py
+---
 
 Proximas mejoras
 
