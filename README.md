@@ -49,22 +49,3 @@ Este bot es útil para:
 
 ```bash
 python bot.py
----
-
-Proximas mejoras
-
-Agregar notificación por Telegram
-
-Versión con interfaz web (Flask)
-
-Automatización con cron job o tarea programada
-
-    Versión dockerizada
-
-👨‍💻 Autor
-
-Desarrollado por Giuliano Sacco
-Ingeniería en Computación y Economía | Backend Developer
-📄 Licencia
-
-MIT License – libre para usar, modificar y compartir
