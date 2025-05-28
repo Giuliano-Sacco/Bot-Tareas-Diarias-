@@ -49,8 +49,7 @@ Este bot es útil para:
 
 python bot.py
 
-
- Próximas mejoras (roadmap)
+🚀 Próximas mejoras (roadmap)
 
 Agregar notificación por Telegram
 
@@ -63,7 +62,7 @@ Automatización con cron job o tarea programada
 👨‍💻 Autor
 
 Desarrollado por Giuliano Sacco
-Estudiante de Ingeniería en Computación y Economía | Backend Developer
+Ingeniería en Computación y Economía | Backend Developer
 📄 Licencia
 
 MIT License – libre para usar, modificar y compartir
